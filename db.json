@@ -1,0 +1,104 @@
+{
+    "product_data": [
+        {
+            "image": "https://picsum.photos/id/237/200/150",
+            "title": "Bold Matte Lipstick",
+            "price": 1
+        },
+        {
+            "image": "https://picsum.photos/id/238/200/150",
+            "title": "Nude Matte Lipstick",
+            "price": 2
+        },
+        {
+            "image": "https://picsum.photos/id/238/200/150",
+            "title": "Vibrant Crayon Lipstick",
+            "price": 3
+        },
+        {
+            "image": "https://picsum.photos/id/239/200/150",
+            "title": "Mini Lipstick Collection",
+            "price": 4
+        },
+        {
+            "image": "https://picsum.photos/id/240/200/150",
+            "title": "Classic Matte Lipstick",
+            "price": 5
+        },
+        {
+            "image": "https://picsum.photos/id/241/200/150",
+            "title": "Intense Crayon Lipstick",
+            "price": 6
+        },
+        {
+            "image": "https://picsum.photos/id/242/200/150",
+            "title": "Assorted Lipstick Minis",
+            "price": 7
+        },
+        {
+            "image": "https://picsum.photos/id/243/200/150",
+            "title": "Matte Crayon Lipstick Set",
+            "price": 8
+        },
+        {
+            "image": "https://picsum.photos/id/244/200/150",
+            "title": "Matte Lipstick Trio Set",
+            "price": 9
+        },
+        {
+            "image": "https://picsum.photos/id/265/200/150",
+            "title": "Bold Matte Lipstick Trio",
+            "price": 10
+        },
+        {
+            "image": "https://picsum.photos/id/295/200/150",
+            "title": "Nude Matte Lipstick Trio",
+            "price": 11
+        },
+        {
+            "image": "https://picsum.photos/id/247/200/150",
+            "title": "Vibrant Crayon Lipstick Trio",
+            "price": 12
+        },
+        {
+            "image": "https://picsum.photos/id/248/200/150",
+            "title": "Mini Lipstick Set",
+            "price": 13
+        },
+        {
+            "image": "https://picsum.photos/id/249/200/150",
+            "title": "Classic Matte Lipstick Set",
+            "price": 14
+        },
+        {
+            "image": "https://picsum.photos/id/250/200/150",
+            "title": "Intense Crayon Lipstick Set",
+            "price": 15
+        },
+        {
+            "image": "https://picsum.photos/id/251/200/150",
+            "title": "Assorted Lipstick Minis Set",
+            "price": 16
+        },
+        {
+            "image": "https://picsum.photos/id/252/200/150",
+            "title": "Matte Lipstick Collection",
+            "price": 17
+        },
+        {
+            "image": "https://picsum.photos/id/252/200/150",
+            "title": "Matte Lipstick",
+            "price": 18
+        },
+        {
+            "image": "https://picsum.photos/id/253/200/150",
+            "title": "Bold Matte Lipstick Set",
+            "price": 19
+        },
+        {
+            "image": "https://picsum.photos/id/254/200/150",
+            "title": "Nude Matte Lipstick Set",
+            "price": 20
+        }
+    ]
+}
